@@ -1,1 +1,2 @@
-[2026-11-06 09:53:25] [AI-Q] AI Q: Coding learn panna eppadi start pannanum?
+[2026-11-06 09:53:32] [AI-A] Aira AI: Coding start panna, first “why” decide panni, then Python maathiri easy language pick pannunga.  
+Online free resources (Codecademy, freeCodeCamp) la basics tutorials complete panni, small projects (calculator, to‑do list) build pannunga. Practice daily, errors’la learn pannitu, community forums la doubts ask pannunga— adhu dhan growth!
